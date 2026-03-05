@@ -60,7 +60,7 @@ Processes the follow-up onboarding call to update the configuration with hard op
 First, clone this repository to your local machine and navigate into the project directory:
 
 ```bash
-git clone [https://github.com/your-username/clara-agent-automation.git](https://github.com/your-username/clara-agent-automation.git)
+git clone https://github.com/Kumayl-Lokhandwala/clara-ai-voice-agent-automation
 cd clara-agent-automation
 
 ```

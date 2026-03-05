@@ -1,0 +1,154 @@
+ng in.
+You've to speak to the customer.
+There are certain times.
+The calls are relevant.
+Certain times the calls are relevant.
+So how can we help Ben safe time on this task?
+Okay.
+Because if it's a relevant call, the next step would be to qualify that kind of job.
+If it's the right kind of job that you cater to.
+And if it is, then you obviously would go ahead and book it for you guys.
+That's the flow.
+Yeah.
+Of course, it varies from company to company.
+There are a lot of variables.
+It's like, what system are you talking about?
+What kind of jobs do you do?
+How well do you train this person?
+So just think of it as a person sitting in the office taking calls for you.
+Day and day out.
+There's no limit on the hours available around the clock 24, 7 speaking to the customer.
+Not just emailing or texting.
+Right.
+Whenever they call it speaks understands and then responds and acts on top of it.
+So that's one solution that we built.
+Okay.
+Does the.
+Hmm.
+It's interesting.
+Because we do such a varied range of work.
+So if I'm getting AI and answer customers.
+I guess is the AI.
+Is it able to ask me questions on how to handle certain things?
+If someone calls and starts talking about generators and I haven't.
+Haven't done anything about generators.
+You know, it's not part of our repertoire.
+It's nothing we would have programmed into AI.
+What if someone calls and says, can you help with the generator?
+And I don't necessarily want to defer that call.
+I want to take that call.
+Will AI be able to kind of handle that?
+How would the AI?
+I mean, at this point, we're talking about AI reception for at this particular point, right?
+That is correct.
+Yeah.
+So how would it handle all that kind of thing?
+The short answer is the way you want to.
+Okay.
+And the long answer is, of course, we can go deep into the AI systems.
+And that's where our onboarding comes with the pictures.
+When let's say you decide after you look at this, you see this is interesting.
+And you want to implement it.
+So we don't take you live in the next 15 minutes.
+We actually spend a few days.
+Understand the kind of workflows that you cater to.
+What are the kinds of jobs that you do?
+What are the kinds of jobs you don't do?
+What are the kind of workflows that you currently follow?
+And then accordingly, where do you want those calls to go out?
+Okay.
+And if I throw an example that you're random example, let's say somebody called and asked for.
+There's an invoice.
+Yeah.
+There's an objection, but an invoice.
+Now, tomorrow, if Ben has an accounting department, that call, I really should go to that accounting department.
+And they resolve that.
+So the AI is already trained and configured.
+That if somebody's asking for an invoice, it validates and verifies that this is a legitimate call.
+And then it routes it to that person and their own rings automatically.
+Okay.
+And they pick it up.
+So we call them smart escalations.
+That's just one example.
+But the point of telling you this is that whatever you want the system to do, it will, because
+it's 100% customizable.
+Okay.
+And in fact, I want you to try that out as well.
+I mean, while we do a demo in the next 30 seconds or 60 seconds, I would want you to ask it random
+questions.
+Of course, it's currently configured to say that yes, it caters to generators, but I'd probably
+ask it's something out of the box like, okay, what about, can you make me a pizza?
+Right.
+Right.
+Just see how the system responds.
+Right.
+Okay.
+And there are people who do actually ask a very random question that you want the system to be
+able to cater to those kind of conversations to.
+Right.
+Yeah.
+Yeah.
+So I'll hold off on telling you all that it does now.
+Let me show it to you.
+And once you experience it yourself, then we can talk more about what else can you do.
+Okay.
+Yeah.
+So let's run a short simulation.
+What we'll do is I'll actually use your help in the demo.
+I'll flash a number on your screen.
+And all you have to do is just dial that number and speak to it.
+Like your customer speak to you.
+Okay.
+As an, you know, you have an electrical problem.
+And what's the problem?
+Maybe there is there are sparks coming out of certain circuit boards or anything for that matter.
+Or electricity.
+Yeah.
+Okay.
+And just see how the system responds.
+And ask it questions that you know, I don't know what to do.
+Do you think I should.
+I mean, whatever you want to ask it if the cost, the time of service, anything.
+Whatever comes to your mind.
+Okay.
+Yeah.
+And let's see how the system responds.
+Sure.
+Yeah.
+Great.
+Do you have a phone handy?
+I do.
+Yeah.
+Okay.
+So what I'll do is I'll just flash a number on your screen right now.
+And you should be able to see it in the next seven seconds.
+And once you do, let's call it and see how it responds.
+Just a request.
+If you could keep your phone on speaker so that even I can listen to the other side, I'll be really help.
+Sure.
+You should probably mute my zoom.
+Hey.
+No, I don't think you need to mute your zoom.
+Just call from your phone and keep the zoom on that.
+Can you see my screen?
+Yeah.
+Okay.
+So two of seven, 1364.
+Okay.
+You can see something.
+How can I help you today?
+Oh, hello.
+I'm wondering if you guys do outlet replacements.
+We do bundle outlet replacements.
+Are you looking to replace a single outlet or do you have multiple that attention?
+And is there any issue with the current outlet or is it just an upgrade?
+We want to redo all the outlets in the house and have the aluminum mitigated.
+Thank you for that.
+Creating all outlets and addressing aluminum wiring is a smart move for safety.
+Can I get your name and the address where the work will be done?
+That way I can check availability and get you set up on estimate.
+My name is Ben.
+And the address is 17119 Sundown Road, Southeast, Calgary, Alberta.
+Let me quickly verify that address for you.
+Thanks, Ben.
+Just to confirm,

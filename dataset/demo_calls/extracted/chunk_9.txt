@@ -1,0 +1,21 @@
+Here are the bullet points under the contractor's business headings:
+
+• Company Information:
+  • The contractor's business is a dispatch system that integrates with a phone system.
+
+• Services Offered:
+  • The system can dispatch calls to the contractor, and also allows for personal numbers to be screened.
+  • The system can also be used to route calls to a virtual assistant, who can verify the caller before transferring the call to the contractor.
+
+• Team Structure:
+  • The system is designed to work with a team, with the contractor being the primary user.
+
+• Software / Tools Used:
+  • The system uses a phone system, and can be integrated with Google Voice.
+
+• Current Workflow:
+  • The system is designed to automatically route calls to the contractor, except for certain exceptions.
+  • The contractor can also choose to receive notifications when a call is received, and can set up personal numbers to be screened.
+
+• Operational Challenges:
+  • None mentioned in the provided text.

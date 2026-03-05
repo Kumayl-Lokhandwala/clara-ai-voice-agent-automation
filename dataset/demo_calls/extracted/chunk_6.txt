@@ -1,0 +1,32 @@
+Here are the bullet points under the requested headings:
+
+**Company Information**
+
+* The company has an integration with Service Titan, Pro Service Fusion, and the Zen platform.
+* They are in the process of building integrations with other systems.
+
+**Services Offered**
+
+* The system helps customers by speaking to them, understanding their problems, and breaking them down into services.
+* The system also assigns jobs to electricians based on their skillsets, schedules, and availability.
+
+**Team Structure**
+
+* The system has a dispatching agent that automatically assigns jobs to electricians.
+* The system also has a team of agents that can remind customers about scheduled jobs.
+
+**Software / Tools Used**
+
+* Service Titan
+* Pro Service Fusion
+* The Zen platform
+* Java
+
+**Current Workflow**
+
+* The system allows users to assign jobs to team members, who can then work on the jobs.
+* The system also allows users to schedule appointments and notify customers of scheduled jobs.
+
+**Operational Challenges**
+
+* None mentioned in the provided text.

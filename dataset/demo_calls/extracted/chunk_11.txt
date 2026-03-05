@@ -1,0 +1,30 @@
+Here are the bullet points under the requested headings:
+
+**Company Information**
+
+* None mentioned
+
+**Services Offered**
+
+* Phone call management and scheduling
+* Site visits and job bookings
+* Filtering of tasks based on estimated time required
+
+**Team Structure**
+
+* Multiple agents available for booking and scheduling
+* Dedicated points of contact for clients
+
+**Software / Tools Used**
+
+* Clara (AI-powered phone call management and scheduling software)
+
+**Current Workflow**
+
+* Clients can book jobs and site visits through Clara
+* Clara analyzes tasks and suggests times for booking
+* Human agents are available for booking and scheduling
+
+**Operational Challenges**
+
+* None mentioned

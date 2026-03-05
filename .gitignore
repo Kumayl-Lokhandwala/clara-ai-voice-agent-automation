@@ -1,0 +1,39 @@
+# Node Dependencies
+node_modules/
+package-lock.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+.env.local
+
+# Python Virtual Environment (Seen in your previous screenshot)
+venv/
+env/
+
+# Docker / n8n Local Data
+.n8n/
+n8n_data/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Media Files
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.mp3

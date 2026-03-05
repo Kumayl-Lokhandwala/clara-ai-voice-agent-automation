@@ -1,0 +1,65 @@
+nswers, dispatch, confirm, confirm and reminds the same, then we have reviews.
+So after the job's done, you can also call out customers asking how the experience was,
+if they like everything. And that information can be converted into text, which can be plugged
+into your website, your Google, your Facebook accounts. And the final piece for the office
+is collections. I don't know if that asked you in voices or would you in voices?
+Oh, yeah. That's actually something I'm working on too is making sure I'm getting deposits
+and credit cards on file. Okay. We're improving that right now. Okay. So you do have certain
+pending invoices in that case. I do. Yeah. So what we've already built something for that is that
+Clare can integrate into your accounting system, which more often or not is usually quick books
+for a lot of people. I don't know if you use QuickBooks. I mean, I do use QuickBooks, but all my
+invoicing goes up. It does go through Java. No, we have that way of working with Java.
+Clare understands the invoices and the jobs, calls out the customer, reminds them that Ben did
+the job on this date. This was the job all about. This is the invoice number. That's the amount
+that's pending. And this is what we're expecting. So by when can be to win? And these happen in
+different tonalities. If it's just say two days later, it's still in that net 13, it's actually the
+concessions going to be in a very happy tone. Whereas if it's been a year since you've been waiting
+and they've been stretching it or dealing with it, it can be more firm. It can be more serious and
+professional. So all that can be configured. So those calls can go out. Cool. Okay. So can I just
+make the phone calls? Yes. Because Java does its own. Like it's got a couple of follow-up emails
+and messages, right? Further invoices, but yeah, sometimes against that point, we've got to start
+with new calls. That's great. It's a little more direct and a little more quicker way in another
+opinion. But we also have a tendency of not just tapping them via calls, we have emails, we have
+texts, everything's configured. So we can have workflows, Ben. It's a mix of omni channel approach
+in a way. Okay. Yeah. All of this is for the office, but I'll pause you. I don't want to
+overwhelm you with a lot of things. But what do you think of the answers? Let's talk about that.
+And let's keep our conversation limited to that unless you want me to go deeper into any other
+agent so far. No, that's good. Like yeah, the answers were great. You know, they were spot on.
+So that was pretty good. And I guess I could have asked some tactical things. I could have said,
+how do you do this or whatever? Sometimes customers want to know. Let's do that.
+At the end of the day, yeah. Does it answer more technical questions like that? I would honestly
+encourage you to just if you have like another one minute, let's call and ask, how do you do it?
+Ask as technical as you can. I really want to see you break it because I'll take this back to my
+product team and they'll be very happy that it didn't answer something. So we'll train it up on it.
+So let's try. Yeah. Okay. I'll try to call again and see what see what she says there.
+Yeah.
+Because that was quite happy with the answers the first time. Yeah.
+Try to break it. Trust me. Like, ask wherever you go.
+I was wondering if you guys do hot tub installations.
+Great question. You don't handle full hot tub installation, but we can definitely help with the
+plumbing and gas line connections needed for hot tub. If you need a licensed plumber to run water
+lines, install a gas line for a heater or make sure everything is up to code, that's right up our
+alley. Would you like to chat about what you need done? Or are you looking for a full install
+including the electrical and the tub itself? I'm looking for the electrical installation.
+Thanks for clarity. We can help with the electrical side. Running dedicated circuits,
+installing GFCI protection and making sure your hot tub is safely wired to code. Could you tell me
+a bit about your setup? For example, is the hot tub already in place or will you need us to
+coordinate with delivery? And do you know the electrical requirements for your specific model?
+That'll help us get you an accurate quote in timeline. The hot tub is located in the yard,
+30 feet away from the house. It's a 60 amp 240 volt circuit required. Can you tell me how they would
+wire that? So a quick overview of how a 60 amp 240 volt circuit for a hot tub in your yard would
+typically be wired. First, an electrician would run a dedicated 240 volt line from your main
+electrical panel to the hot tub location. This usually involves installing a new 60 amp double
+pole breaker in your main panel. Running appropriately sized wire usually has 6 AWP copper,
+but this can vary based on distance and local code through conduits from the panel to the hot tub.
+Installing a GFCI protected disconnect box within sight of the hot tub, but at least 5 feet away
+for safety, connecting the wiring from the disconnect to the hot tub's control panel. The exact
+method can vary depending on the distance, local codes, and your yard's layout. For more detailed
+plan, we'd send a licensed electrician to assess your setup and provide a quote. Would you like
+to schedule a site visit or get an estimate? Also, just a heads up. Joining our club membership
+gives you priority scheduling, discounts, and annual safety checks. I can share more details
+if you're interested. Can you tell me if they would be using conduit or cable to run underground?
+Great question. Or an outdoor hot tub installation electricians almost always use conduit for underground
+runs. Here's a quick summary, conduit. Typically, they'll use PVC conduit or sometimes metal,
+depending on code, to protect the wires underground. The wires inside are usually individual
+THWN2 conductors rated for wet location. Direct burial cable. In some c

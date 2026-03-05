@@ -1,0 +1,119 @@
+{
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "trigger_b",
+      "name": "Trigger Pipeline B",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [0, 460]
+    },
+    {
+      "parameters": {
+        "command": "cd /data && node scripts/chunkOnboarding.js"
+      },
+      "id": "v2_chunk",
+      "name": "1. Chunk Onboarding",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [220, 460]
+    },
+    {
+      "parameters": {
+        "command": "cd /data && node scripts/extractOnboarding.js"
+      },
+      "id": "v2_extract",
+      "name": "2. Extract Onboarding",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [440, 460]
+    },
+    {
+      "parameters": {
+        "command": "cd /data && node scripts/mergeOnboarding.js"
+      },
+      "id": "v2_merge",
+      "name": "3. Merge Onboarding",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [660, 460]
+    },
+    {
+      "parameters": {
+        "command": "cd /data && node scripts/updateToV2.js"
+      },
+      "id": "v2_memo",
+      "name": "4. Generate v2 Memo & Changelog",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [880, 460]
+    },
+    {
+      "parameters": {
+        "command": "cd /data && node scripts/generateV2AgentSpec.js"
+      },
+      "id": "v2_spec",
+      "name": "5. Generate v2 Spec",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [1100, 460]
+    }
+  ],
+  "connections": {
+    "Trigger Pipeline B": {
+      "main": [
+        [
+          {
+            "node": "1. Chunk Onboarding",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "1. Chunk Onboarding": {
+      "main": [
+        [
+          {
+            "node": "2. Extract Onboarding",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "2. Extract Onboarding": {
+      "main": [
+        [
+          {
+            "node": "3. Merge Onboarding",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "3. Merge Onboarding": {
+      "main": [
+        [
+          {
+            "node": "4. Generate v2 Memo & Changelog",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "4. Generate v2 Memo & Changelog": {
+      "main": [
+        [
+          {
+            "node": "5. Generate v2 Spec",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

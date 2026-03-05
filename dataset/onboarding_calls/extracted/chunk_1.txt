@@ -1,0 +1,31 @@
+Here are the operational information and rules about the contractor's business in bullet points:
+
+**Business Hours & Timezone**
+
+* No specific business hours mentioned
+* Timezone not specified
+
+**Emergency Definitions & Routing Rules**
+
+* No specific emergency definitions or routing rules mentioned
+
+**Non-Emergency Routing Rules**
+
+* Calls will be forwarded to Clara by default from the contractor's main business line
+* If the contractor does not answer or decline a call, it will be forwarded to Clara
+
+**Call Transfer Rules & Fallbacks**
+
+* Clara can transfer calls to the contractor's second number if someone needs to speak with them directly
+* If the contractor is unavailable, Clara will forward the call to the second number
+
+**Integration Constraints**
+
+* No specific integration constraints mentioned
+
+**General Notes**
+
+* The contractor will receive a notification on the billing team when the docky sign is signed
+* The contractor will receive a notification when the agent is available for testing
+* The contractor will be able to test the agent and run test calls to ensure it meets their needs
+* The agent will be available for testing and will be able to take live calls on weekends

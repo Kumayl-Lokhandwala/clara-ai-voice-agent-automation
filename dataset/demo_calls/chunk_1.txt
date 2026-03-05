@@ -1,0 +1,92 @@
+All right, we'll let Ben in now in three, two, one, and he's in.
+Hey, Ben, can you help me?
+Wait, can you hear me? Yeah. Yeah, I can. Perfect.
+There you go. Okay. Ben, thank you so much for joining us as a short notice.
+And before starting, just wanted to introduce myself.
+Again, I'm Nick. I am part of the Clara team.
+We reach out to businesses across North America.
+And we have built this AI agents for trades businesses specifically.
+And to help us with that, I have here with me, my colleague Bharat,
+who's the solutions expert and the growth partner at Clara AI.
+And he is the best person who knows everything in and out about the industry as well as the product.
+So he'll be the one who will be walking us through the presentation today.
+Over to you, Bharat.
+Thank you, Nick. Ben, good morning. How are you?
+I'm doing very well. How are you?
+Very well. Really excited about our conversation.
+And I'm glad that we're able to do it earlier because sooner rather than better about everything, right?
+Absolutely. That's what I thought too.
+And I hope we have enough time to have a conversation.
+I hope you're not in a rush to probably hop off somewhere or
+I am always in a rush, but we've got time.
+Great. So let me start off by introducing myself and my company, what we do.
+And after that, we'd love to know a little about you as well since it's the first time we've connected.
+And then we'll dive into what we're doing and then we do a demo of our platform.
+And then we'll see how things go from there. Sounds good.
+So I am Bharat. I work with Nick and a few other folks. So we're a very lean team and
+I represent the solutions team here at Clara.
+What I do day in and day out then is I speak to contractors such as yourself,
+understand your workflows, see how you're doing things right now,
+which I'm sure is at a very optimal level of doing things efficiently.
+But after understanding, I see where can we plug in our solution to further enhance
+the way of you do things. And that's what I'll be doing here today as well.
+And a little about the company. So we started a while ago.
+It's been close to three years now.
+And why we started what we do today is because we saw AI taking over the world.
+I'm sure you also have heard it everywhere.
+What we saw, however, was AI was penetrating really deeply into the white collar business.
+You know, all the fortune five ones of the world are using it, which is absolutely fine.
+The trades, however, you know, the blue collar industry didn't see a lot of penetration as compared to the white collar industry.
+That's how our journey began. We started speaking to a lot of contractors and realize
+there are a lot of opportunities for us to work now.
+What those opportunities are, what we picked up from there, what we actually built
+is something I'm going to show you in just a bit, but I'll pause here.
+Sure.
+And I'd love to know a little about you. How long have you been in this business?
+And anything that you might have to share, I'm all yours.
+Oh, yeah. No, I mean, I've been working for myself for about eight years now.
+And it's fun.
+I've been an electrician for 30 years writing my own business for, like I said, the last eight.
+Sorry. I'm going to try and grow a little bit bigger here this year.
+You know, we've been relatively small, right? I just have a couple guys, couple fans out on the road.
+Do a lot of the pretty much all the admin and backend stuff myself, right?
+Which is going fine, but as we get this year, you know, I've got, got to get some help here.
+So I've actually got another guy who's going to be coming on as the operations manager to help me out with all of that sort of stuff, right?
+Yeah, that's that's about it. You know, if I've dabbled with having a virtual receptionist, like,
+yeah, and that didn't that didn't go great.
+But I probably didn't really know how to use her properly either.
+Virtual assistants to say enough virtual reception, which actually might be an interesting thing.
+I've tried, tried looking into like a different phone system.
+So I could have an app for everybody from my team to have like one company line.
+But it was really weird. The app that we had, it gave us everybody was assigned a different number.
+And nobody ever answered the phone because they're all, they all look like spam.
+They all it just looked like a weird foreign number of different names came up.
+So that was a shady experience too. So sorry for my language. We shut that down right quick.
+So you know, that's what it is. I mean, we're pretty basic.
+I've got a software called Jabra that runs on my CRM.
+And it's fantastic. It really helps a lot.
+Okay. Yeah, that's that's us.
+That's quite helpful. And thank you for sharing so much and so little time.
+Yeah, sure.
+Quite a lot of things that I saw job was your CRM.
+Great. We're familiar with that.
+And the reason why we're familiar with that is because the folks who started this company have 15 to 20 years of experience in the trades business themselves.
+They are contractors. They are folks who are building tech.
+So it's an interjection of all of that is how the founder actually started on this journey.
+So great. I'm familiar with how Java works.
+You mentioned that you have a couple of trucks out in the field.
+So you have more people working for you today out in the field.
+I've got, I've got two company works fans.
+I'm getting a third one on the road at the end of the week here.
+So I'll have three company work fans.
+And then I've got two subcontractors I use.
+So about four vans on the road.
+Typically is what we're going to be operating by the end of the year.
+I want to have five lovely.
+And so you mentioned you have subcontractors.
+People who join and I'm assuming for certain projects.
+Certain tasks. I'm assuming.
+Yeah, pretty much.
+I've got, you know, when we get busy,
+I bring in subcontractors to take in the overflow work.
+So I mean, I've had one guy working

@@ -1,0 +1,63 @@
+ but the jobs will be
+scheduled for tomorrow after 8 a.m. Or maybe your team member will now be routed into these
+conversations or somebody else will be routed into these conversations. If you have somebody
+on call tomorrow, we can have them plugged into the system. So all those calls will go to that person.
+So if it's an emergency, Clara doesn't. So one more thing that this does is if somebody's calling
+with an emergency, you don't have the time to ask so many questions. In that case, it automatically
+gets the call to you. Oh, okay. Okay. Or whoever for that matter. Yeah. So it works like a dispatch
+as well, right? So when a call comes in, they can forward the call to me or anyone on the team however
+we program it or whatever, right? Absolutely. Absolutely. So generally, generally talks to the person,
+takes the information, takes the message and then puts it into the dashboard. And then I'm assuming
+it'll give some sort of notification email and text. Perfect, which I can probably turn on or off.
+I'm sure I wouldn't want to, but okay. So then I'll get the notifications or someone on my team will
+get the notifications that a college has come in. Look on the dashboard, we'll see all the details
+and then we'll figure out what to do with it from there. That's one flow. Yes. Yeah. Yeah. And then
+okay, and it can also dispatch. So if a call comes in, what if someone like calls and asks to
+talk to me directly, they can just send it over to my number or forward the call or will it,
+what will it be there? So there are multiple scenarios and multiple use cases. One is let's say
+that you get a call from your wife. Yeah. You don't want that call to be screened. You want that
+to come straight to you. So it'll be configured that, okay, these are some personal numbers, private
+numbers. There's no filtration of screening happening there. That's one. Second is if you have
+certain customers who you don't want to be screened at any point in time, because they're like your
+long, very strong relationship driven customers. So you don't have to, they'll be filtered out. And
+about anyone reaching you, we don't want that because then there'll be no purpose. So we do have
+like a few levels of screening that okay, sure, I'm happy to connect you to Ben. Can you tell me
+what's it about? Just how you, you'll have like a virtual assistant, right? So that virtual
+assistant also will transfer that call to you, but after it asks certain questions to make
+it a verified and a valid call. So we can have those levels, unless you don't want that to be the case,
+unless you want whoever asks for Ben, just get him to me. So that doesn't really defeats the purpose,
+but we can do that still if you want. Yeah. And how does, how do we integrate it with the phone?
+Like right now, my cell phone number, it's still my personal number, but it's also the business
+number. I'm going to, I am going to be getting a personal cell phone with a different phone number.
+Of course, now I've got hundreds of contacts in this phone from family and friends. So I've
+got to transfer all that information over, but how do we get Clara to answer numbers that call
+in to this phone? I must have to put an app on my phone or something, right? So we can have a
+forwarding setup. That's one. And second is that in that case, we can have it forwarded to a fresh
+number, which we can provide to you on which you can take all the calls. So it's not going to
+charge you anything. It's not cost. It's a free of cost number. And you can have a conversation there.
+Guess how, how, how does that work? Right. So if let's say somebody's calling you,
+the call gets forwarded on any number for that matter. If somebody calls you, the call gets
+forwarded to Clara, Clara understands what the job is all about. And then in case that call needs
+to be routed to you. So we can have it routed to a fresh number that we will have set up for you.
+Oh, yeah. Oh, on the same phone. I mean, if you want. Yeah, it can be a Google voice, Google
+number. It's a fairly simple process. And we can have that setup with you.
+Okay. And then, uh, yeah. So would we be setting it up so that Clara answers every call that comes
+to my business phone number? Yes. Provided some exceptions, barring some exceptions. If you
+want certain calls to not be screened, they will be screened. Okay. So I can still use this phone,
+Clara will generally answer the business calls, except for ones that I say, just let them go right
+through and ring my phone. So would I even get, if somebody calls, and I've got Clara answering,
+will I even know that it's coming probably not until after the notification, hey?
+Would you want that to be the case? Because I want to understand this use case a little better,
+because not every call's going to come to you, because the purpose of Clara is to be that receptionist,
+and have that entire back office. Yeah. That's, that's what I mean. So, so if I'm like playing a video
+game on my phone, and maybe I don't want to be disturbed by random people, which is the whole
+point of all this, right? Not for video games, but I'm not even going to know that call came in
+until I get the notification afterwards. That is correct. Yeah. So my phone's not going to ring,
+and I let it go to Clara. Basically, the phone's going to go to, the call's going to go to Clara,
+and Clara will decide where they're not to let it go to me. Exactly.
+That's pretty cool. Yeah. Okay. And so I don't need to get a new phone number, but I can,
+and she can port me. We'll have that facilitated for you. And this is all on, and again,
+I don't want to get off track from here, but this is all for the office. We have a very,
+comprehensive solution for your field guys as well. I just want you to know about it. I'm not going
+to go into too much depth, because I don't want to overwhelm you, but you mentioned something,
+which I picked up on wherein that when you guys go out in the field, 

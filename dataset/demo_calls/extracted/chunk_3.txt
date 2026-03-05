@@ -1,0 +1,27 @@
+Here are the bullet points under the requested headings:
+
+**Company Information**
+
+* The contractor runs gas stations and has a property management business.
+
+**Services Offered**
+
+* Gas station management
+* Property management
+
+**Team Structure**
+
+* The contractor has a single property manager who handles day-to-day operations.
+
+**Software / Tools Used**
+
+* No specific software or tools mentioned.
+
+**Current Workflow**
+
+* The contractor uses a virtual assistant (not an AI solution) to handle some tasks, but it was not a good fit.
+* The contractor is currently using a team of six agents to automate certain tasks in the back office.
+
+**Operational Challenges**
+
+* The contractor has struggled with finding the right virtual assistant to handle tasks, but is now looking to implement AI solutions to improve efficiency.

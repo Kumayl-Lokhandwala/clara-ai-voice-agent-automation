@@ -1,0 +1,115 @@
+ don't have to very often.
+I've got one contractor.
+They are one property manager.
+They run some gas stations.
+And so sometimes when they're, if their pumps go down, they've got to be fixed now.
+And so I get out there and do that one, because I don't have any of my guys on call.
+Interesting.
+Okay.
+That's all very helpful.
+Thank you so much.
+I'm just trying to understand you a little better.
+And I think it's actually quite interesting how you've been running so far and how you have a vision
+to get your company to a certain level by the end of this year.
+That's amazing.
+And I have a few follow-up questions.
+I'll pause on that.
+What I'm very curious to know is your experience with the, you mentioned a virtual receptionist or a virtual.
+Was it an AI solution or what was actually a virtual assistant?
+So it was a, it was a live person that had access to 20 hours a week of her time kind of thing or whatever it was, right?
+And so it was more about if I was communicating with her.
+But because I didn't, yeah, it was weird because I was only paying for a certain number of hours, right, which was fixed.
+It's, I couldn't have her answering the phones necessarily.
+I maybe could have, but I didn't have that.
+I didn't know how to set that up.
+I probably, I could have, I could have used her a little bit more to do more client and dad entry.
+But it was kind of weird.
+I think, I think someone in that position, I needed them to be a bit more proactive and I was pretty new to my business.
+I have, I have an assistant now who, who I'm going to bring, bringing on as an operations manager or estimator to help me with the stuff that I'm doing.
+And kind of figured that out of the school way better communicate with him all the time.
+Get him to do a lot of data entry for me.
+And then here, next month, I'm going to be getting him to go look at some jobs by himself.
+Like he's been coming with me to do quotes.
+So.
+Well, so he's also going to be exposed to a lot of things, not just with the office piece, but he also going to be coming with the art and the field and standing the jobs again.
+You kind of building another you in the company.
+That's the goal, to be honest, yeah.
+Nice.
+Okay.
+And thank you for clarifying about the virtual assistant.
+I was under the impression that so why I got a little confused there because we've also built something which we started calling it as a virtual assistant, but it's actually not another person.
+Right.
+It's tech.
+Right.
+Okay.
+Yeah.
+So I was thinking along those lines, but glad that you clarify that.
+So just so that I understand things correctly.
+There was another person who was sitting probably somewhere else, and she was taking the calls for you and helping you out.
+And but it was a person at the end of it, right?
+It was a person.
+I wasn't having her taking calls.
+Which I think would have been would have been kind of cool.
+It was more like I have to message her and ask her to do some dad entry or that's pretty much it. And honestly, I didn't use her very much.
+I didn't really know how probably could have done better. I could have done a lot better, but it wasn't the greatest fit anyways for me.
+And this was probably very early into your business because you mentioned that you did it at the start.
+And it's been 80 years since you've been running the company. So I'm assuming it was the first.
+Yeah, that was about year two or three.
+Okay.
+And since then, anything that you probably tried to experiment with?
+No.
+No.
+Okay.
+So we'll probably be the first ones to show you something which would be very different out of the box, which if you like it, you probably would want to experiment with.
+Yeah, I haven't experiment with anything AI.
+So you haven't or you have.
+No.
+Okay.
+Anyone around you might have looked at anything that using that uses.
+No, not really.
+Okay.
+So I'm more excited now because now I have like a lot of pressure to show you the magic that AI can do.
+And I'm also equally excited because we've been spending years into building this and speaking to somebody and showing it to the first time the reaction is very different.
+I'm looking forward to that.
+Okay.
+So now let me tell you what we do.
+Ben and again, while I'm doing that, just how I've been constantly budgeting you with questions, you can do that too.
+Okay.
+So like I said, we started on this journey a while ago and spoke to a lot of people understood the areas.
+Now we broke down into different segments.
+One is the back office.
+The other is the field.
+Then we have the customers, the end customer, something for them.
+Now within these segments, we picked up certain use cases where and we saw.
+Certain things are very ad hoc.
+You can't predict them.
+For example, your guys are your guys going out on the field.
+You can't predict what's going to happen on the site, right?
+You might think that the job might last for say a few hours, but it turns out to be a few.
+A few days, can't you?
+You can't predict that.
+Yeah.
+But in this entire workflow, what we were looking for was certain areas that.
+Can be automated because there are certain things which are redundant.
+Okay.
+Right.
+And that's how we started on our journey.
+We built a lot of agents.
+So as of today, we have close to six.
+Agents catering to different aspects of the business.
+And I believe in your conversation with Nick.
+Nick might have told you that we're also building certain AI solutions that can help you with your back office things.
+Do you remember any of those things or?
+No.
+I'm on.
+Okay.
+So I'm going to tell you everything from scratch.
+No, I know.
+So we'll start with this most simplest thing.
+What we've tried to build is a solution.
+That can help you specifically.
+Since you mentioned that you're the one taking calls.
+You probably get calls after hours.
+You probably get calls from emergencies.
+You might go or might not go.
+But point is that the calls are comi

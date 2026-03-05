@@ -1,0 +1,19 @@
+Here are the bullet points under the requested headings:
+
+• Company Information:
+  • The company is a contractor that provides various services, including electrical work.
+
+• Services Offered:
+  • Electrical work, including outlet replacements and addressing aluminum wiring.
+
+• Team Structure:
+  • Not explicitly mentioned in the provided text.
+
+• Software / Tools Used:
+  • AI-powered system for handling customer calls.
+
+• Current Workflow:
+  • The AI system routes calls to the relevant department or person based on the type of job and the customer's request.
+
+• Operational Challenges:
+  • None explicitly mentioned in the provided text.

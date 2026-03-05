@@ -1,0 +1,33 @@
+Here are the bullet points under the requested headings:
+
+**Company Information**
+
+* The company is a licensed electrician
+* They offer electrical services, including hot tub installations and electric vehicle chargers
+* They have a club membership program that offers discounts and priority scheduling
+
+**Services Offered**
+
+* Electrical services, including hot tub installations and electric vehicle chargers
+* Pool installations (not a service offered by Clara)
+* LED lighting upgrades
+* Electrical quote and consultation services
+
+**Team Structure**
+
+* The company has a team of electricians who can design and install electrical systems
+* The team is trained to answer electrical and plumbing questions
+
+**Software / Tools Used**
+
+* The company uses a conversational AI system to answer customer questions and provide services
+* The system is customizable and can be trained to answer specific types of questions
+
+**Current Workflow**
+
+* The company uses a 24/7 system that can be accessed around the clock
+* The system can pivot to a backup workflow if the primary user is not available
+
+**Operational Challenges**
+
+* None mentioned in the text

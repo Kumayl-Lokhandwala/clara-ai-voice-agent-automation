@@ -1,0 +1,30 @@
+version: "3.8"
+
+services:
+  n8n:
+    image: docker.n8n.io/n8nio/n8n
+    container_name: n8n_clara
+    ports:
+      - "5678:5678"
+    environment:
+      - N8N_HOST=localhost
+      - N8N_PORT=5678
+      - N8N_PROTOCOL=http
+      - NODE_ENV=production
+      - EXECUTIONS_DATA_SAVE_ON_ERROR=all
+      - EXECUTIONS_DATA_SAVE_ON_SUCCESS=all
+      # Prevents file permission errors when reading/writing to your local machine
+      - N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=false
+      # CRITICAL: This tells n8n to allow the "Execute Command" node
+      - NODES_EXCLUDE=[]
+    volumes:
+      # Stores n8n internal data (like your saved workflows) so they don't get deleted
+      - n8n_data:/home/node/.n8n
+      # Maps your current Windows project folder to /data inside the n8n container
+      - ./:/data
+    extra_hosts:
+      # Creates the network bridge so n8n can talk to your local Ollama on your host machine
+      - "host.docker.internal:host-gateway"
+
+volumes:
+  n8n_data:

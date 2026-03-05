@@ -1,0 +1,34 @@
+Here are the bullet points under the requested headings:
+
+**Company Information**
+
+* Founded close to three years ago
+* Started as a response to the limited penetration of AI in the trades industry
+* Focus on building AI agents for trades businesses specifically
+
+**Services Offered**
+
+* Building AI agents for trades businesses
+* Enhancing workflows and efficiency for contractors
+
+**Team Structure**
+
+* Lean team with a solutions expert and growth partner
+* Solutions expert and growth partner are the main points of contact for contractors
+
+**Software / Tools Used**
+
+* CRM software (Jabra)
+* AI agents built using the company's technology
+
+**Current Workflow**
+
+* Contractor uses a CRM software (Jabra) to manage their business
+* Contractor has a small team and handles admin and backend tasks themselves
+* Contractor is looking to expand their team and hire an operations manager
+
+**Operational Challenges**
+
+* Limited penetration of AI in the trades industry
+* Difficulty in finding reliable subcontractors
+* Challenges in managing a growing business and handling admin tasks

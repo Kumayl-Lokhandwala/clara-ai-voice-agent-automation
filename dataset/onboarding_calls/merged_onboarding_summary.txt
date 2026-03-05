@@ -1,0 +1,107 @@
+
+Here are the operational information and rules about the contractor's business in bullet points:
+
+**Business Hours & Timezone**
+
+* No specific business hours mentioned
+* Timezone not specified
+
+**Emergency Definitions & Routing Rules**
+
+* No specific emergency definitions or routing rules mentioned
+
+**Non-Emergency Routing Rules**
+
+* Calls will be forwarded to Clara by default from the contractor's main business line
+* If the contractor does not answer or decline a call, it will be forwarded to Clara
+
+**Call Transfer Rules & Fallbacks**
+
+* Clara can transfer calls to the contractor's second number if someone needs to speak with them directly
+* If the contractor is unavailable, Clara will forward the call to the second number
+
+**Integration Constraints**
+
+* No specific integration constraints mentioned
+
+**General Notes**
+
+* The contractor will receive a notification on the billing team when the docky sign is signed
+* The contractor will receive a notification when the agent is available for testing
+* The contractor will be able to test the agent and run test calls to ensure it meets their needs
+* The agent will be available for testing and will be able to take live calls on weekends
+Here are the operational information and rules about the contractor's business in bullet points:
+
+**Business Hours & Timezone**
+
+* No specific business hours mentioned
+* No specific timezone mentioned
+
+**Emergency Definitions & Routing Rules**
+
+* No specific emergency definitions mentioned
+* No specific routing rules mentioned
+
+**Non-Emergency Routing Rules**
+
+* No specific non-emergency routing rules mentioned
+
+**Call Transfer Rules & Fallbacks**
+
+* Calls will be forwarded to Clara
+* No specific fallbacks mentioned
+
+**Integration Constraints**
+
+* No specific integration constraints mentioned
+
+**General Notes**
+
+* The contractor has a service call fee of $115
+* Hourly charges are $90 per hour for residential services
+* The first 30 minutes are $150
+* The contractor will not mention the service call fee on all calls, but will provide information upon request
+* The contractor will send notifications to a preferred email address and phone number
+* The main line will use the same number to send SMS and emails
+* The contractor will not receive text messages on their personal phone, but will respond to them on the main line
+Here are the operational information and rules about the contractor's business in bullet points:
+
+**Business Hours & Timezone**
+• Business hours: Monday to Friday, 8:30 AM - 4:30 PM (EST)
+
+**Emergency Definitions & Routing Rules**
+• No specific emergency definitions or routing rules mentioned
+
+**Non-Emergency Routing Rules**
+• No specific non-emergency routing rules mentioned
+
+**Call Transfer Rules & Fallbacks**
+• Calls will be patched through to the agent
+• If the agent is not available, the call will be answered by the system
+
+**Integration Constraints**
+• No specific integration constraints mentioned
+
+**General Notes**
+• The system will be configured to answer calls
+• The agent will be trained on the system and will have access to the dashboard
+• The system will be tested and calibrated before going live
+• The agent will be able to forward calls to the main line and patch through to the agent if requested
+Here are the operational information and rules about the contractor's business in bullet points:
+
+• **Business Hours & Timezone**: No specific information is provided about the contractor's business hours or timezone.
+
+• **Emergency Definitions & Routing Rules**: No specific information is provided about emergency definitions and routing rules.
+
+• **Non-Emergency Routing Rules**: No specific information is provided about non-emergency routing rules.
+
+• **Call Transfer Rules & Fallbacks**: No specific information is provided about call transfer rules and fallbacks.
+
+• **Integration Constraints**: No specific information is provided about integration constraints.
+
+• **General Notes**: 
+  • The contractor aims to minimize spam calls and edge cases.
+  • The contractor will start with keeping the door "relatively closed" and "shut".
+  • A testing piece will be provided to test the system.
+  • The contractor will provide an email with agent details and a phone number for direct testing.
+  • The system is not live yet, but can be tested directly by calling the provided number.

@@ -1,0 +1,18 @@
+Here are the operational information and rules about the contractor's business in bullet points:
+
+• **Business Hours & Timezone**: No specific information is provided about the contractor's business hours or timezone.
+
+• **Emergency Definitions & Routing Rules**: No specific information is provided about emergency definitions and routing rules.
+
+• **Non-Emergency Routing Rules**: No specific information is provided about non-emergency routing rules.
+
+• **Call Transfer Rules & Fallbacks**: No specific information is provided about call transfer rules and fallbacks.
+
+• **Integration Constraints**: No specific information is provided about integration constraints.
+
+• **General Notes**: 
+  • The contractor aims to minimize spam calls and edge cases.
+  • The contractor will start with keeping the door "relatively closed" and "shut".
+  • A testing piece will be provided to test the system.
+  • The contractor will provide an email with agent details and a phone number for direct testing.
+  • The system is not live yet, but can be tested directly by calling the provided number.

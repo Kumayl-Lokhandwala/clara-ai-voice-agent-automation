@@ -1,0 +1,173 @@
+ many of a potential leads?
+Okay.
+What I want you to notice is that there are a few calls that are not potential leads,
+which means there were people who were trying to call you and sell you something.
+Right.
+And insurance credit cards.
+You get a lot of time spent on such calls telling them that I'm not interested.
+So those are the kind of calls that will be filtered out automatically.
+Okay.
+Good.
+And you do.
+You do?
+Oh, yeah.
+Yeah.
+You can see them under call history.
+So we track the intent of every call as well.
+So if you see here, we're tracking it was a service call or it was an emergency call.
+It was an inquiry.
+Similarly, there's a feature called others.
+It's under the filters.
+What that would do is it would help you.
+It will tell you okay.
+That was a call.
+It was irrelevant.
+Now what the system can also do is.
+Let's say there was a service.
+Actually, let's open your call.
+This refresh rate.
+What was already here shouldn't have refreshed.
+Let's go here.
+And so this is the kind of information that we've been able to capture.
+And all that we discussed is right here.
+You can listen to the recording as well.
+Now the system also helps you.
+Assign it to somebody.
+So let's see you've made a call.
+Now you want to sign this call to somebody in your company.
+Now that person will be able to see this call.
+So that person can only work on these kind of jobs.
+The ones that you're assigning them.
+And.
+Yeah.
+So you have a.
+So okay.
+So I can go in and look at the dashboard.
+And then I can assign the call to a team member.
+That's.
+Maybe the assigning or do I do the assigning?
+So currently, it'll be you who'll be doing the assigning initially.
+Because we've got to understand how the patterns are.
+And then eventually in the next few phases,
+we can have that be automated as well.
+Okay.
+And so I mean, like I said right now,
+I'm the one that deals with everything.
+But some of the stuff I could have another team member deal with.
+So we would all need to have a log in to the dashboard,
+then write or something like that.
+Yes, everyone can and will be mostly getting a log in provided.
+You want that to be the case.
+And then you will have the admin access well and you can see everything
+that's going on everywhere.
+But your guys will only be able to see the jobs that you have assigned to them.
+Okay.
+Um, okay.
+So then the next the next step for me.
+Once we get this is then I would need to get this,
+whether it's a site visit or an actual job.
+Or we need to create a quote.
+I need to get this information over into job.
+Okay.
+So is that something.
+Like is there integration or is that basically I assigned my team member?
+They look at it.
+They put it into job.
+Which is fine.
+If that's the best way to do it.
+So currently,
+I'm glad that you highlighted that.
+Currently, we have an integration with a lot of systems that you probably might have heard of.
+Called service titan.
+We have a house called pro service fusion.
+The Zen platform.
+The job.
+We're in process of building that integration.
+Okay.
+Yeah.
+If you see if I go into the settings section.
+And under the setting section,
+if we go into integrations.
+So you'll be able to see job, which is in process.
+Coming soon.
+Yeah.
+Oh, that's.
+It's a good call.
+That's great.
+And that actually leads us to our next agent.
+But again, I don't want to overwhelm you.
+But I'm just telling you the future of Clara.
+So.
+Or so far what the system's been able to do is speak to the customer.
+Understand the problem and actually have it broken down into its service for this.
+This thing.
+Yeah.
+This is happening here.
+Now, the next step is like you mentioned assigning it to somebody.
+Yeah.
+Yeah.
+So we've already built a dispatching agent.
+What that agent does is once it has the information, it bases on where your electricians
+are, their skillsets, their schedule, because all of that information is going to be in your
+job or system.
+Yeah.
+It can pull that information and then automatically assign it.
+And by automatically, I mean, it'll almost put it on the scheduler.
+You'll have to put like press the final button.
+Okay.
+Okay.
+Okay.
+I don't know if Java does that, but it notifies usually these platforms.
+Notify the customer that a job has been scheduled.
+Yeah.
+If we select to do so, yeah.
+Right.
+And what I normally do, I'm usually talking to the customer via phone or email or text.
+We set up the appointments.
+And then I plug it into the calendar and Java.
+And then I plug it into the calendar.
+And then I plug it into the calendar.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay, just wanted to I think the answer.
+Yeah.
+Yeah.
+And then I've got the option to send them a text which sometimes I'll do.
+But for the most part since we've just discussed it all the phone.
+Yeah.
+Sometimes...
+Just as clear,
+I have a.
+It's own calendar and scheduler.
+Uh,
+we.
+to work with and we're trying to build what we like to call a system of action that actually
+takes actions rather than a system of a record, which is a traditional CRM, which is like a
+job or a Zen or etc. So we're not really in that space. We're working on top of them,
+like with them, integrating into them and then working with them together.
+Yes, yes. And so yeah, those second pieces, the dispatcher, where once the integrations live,
+if you want, we can explore that as well. And similarly, we have a few other agents which
+includes reminding your customers about the scheduled jobs. Okay. So let's say you have a job
+that scheduled, or the next week is booked completely. These could be service calls, projects,
+or anything to that matter. And you want that to be that one call going out and confirming that's
+a, we're ready, we'll be there. And once the customer says yes, it goes ahead with it.
+Right. Okay. So a

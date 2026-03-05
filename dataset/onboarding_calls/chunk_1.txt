@@ -1,0 +1,127 @@
+Just give me a second, we'll let Ben in.
+Okay, so Navins, can I change his name to?
+If we going forward, Navin, if you can put Clara's display picture, they'll be helpful.
+Clara's support, I'm changing your name.
+Okay, cool.
+I'll let him in.
+Yes.
+The good.
+All right.
+Let him in in three, two, one.
+And Ben is in very sweet guy by the way.
+He's in.
+Hey, Ben, good afternoon.
+Oh, wait.
+Oh, hey, hi, good afternoon.
+Hey, Ben, how are you?
+I'm doing well, are you?
+Very well.
+Thank you so much for asking.
+Very, really excited to kick things off for you.
+And yeah, I mean, how have things been since the last time we spoke?
+Good, busy.
+Busy, that's good.
+It's been around for sure.
+So it's been fun.
+Um, yeah, I just signed the, um, the docky sign.
+Oh, okay.
+You look like it said, um, like a 12 month term.
+And I think we were talking about three months to start.
+Correct.
+So what it means there is that after the three months, if you decide to continue,
+which I'm sure you will, the price will stay the same.
+So that's what that 12 month term.
+Men means.
+So you'll be good.
+Correct.
+It just helps you with the cost increase.
+Yeah.
+So you've signed the docky sign.
+Yeah.
+Awesome.
+I think I'll be getting a notification on the billing team.
+And I think the card that you probably, the details that you shared with me that also
+might be in process of getting executed.
+So I think we're good.
+Uh, but all that aside, I just want to introduce the, the new phase that you can probably see on your screen.
+That's Paven.
+Paven.
+Hey, Ben.
+I wanted to get somebody who, I mean, who understands things in and out.
+And turns out, Paven's the one who started the whole journey of Clara answers.
+So he's somebody who's very deeply knitted into this program.
+This solution.
+So he'll match your pace, understand your expectations.
+And of course, married and then present the solution to you.
+So he's going to be a dedicated point of contact.
+But if in this, if any case, if at any point, there has to be more people involved,
+we'll of course notify you and then we'll loop other people in as well.
+Okay.
+Okay.
+That's how to let Paven take over.
+And, uh, yeah, we'll kick things off.
+Thank you so much, Bharat.
+And yeah, Bharat is my hype man.
+Yeah.
+Perfect.
+With all the intro.
+But yeah.
+I'm super excited to get you started.
+Ben, got all the context of your business or you're trying to solve with, you know,
+the first solution here that is, you know, AI for answering for your business.
+Not all the context from Bharat in the way you guys operate today.
+With that information, we already have the, you know, base variant of the agent configured.
+Just one, just a couple of details, you know, some details that I wanted to clarify
+so that we can complete that configuration and make the agent available for your testing today itself.
+Right.
+That'll be the target.
+The way the process would look like as well is we'll share the number on which the agent will be available.
+And the dashboard as well.
+So that, you know, you can run some test calls, see how the agent is responding.
+All of that.
+After this call, it's, I'll share that details with you by making those final configuration.
+And then post that we can probably set up another call for Friday.
+If you have some time, because you get this one day to really test.
+And, you know, run some test calls, see if you'd want anything changed.
+And then, you know, we can probably, you know, have the agent take life calls this weekend.
+Right.
+Okay.
+So firstly to, I mean, get an understanding.
+We'll divide the conversation into during officers and afterwards just to get the behavior that we'd want to have for the agent.
+So for during officers, then is it only you who takes all the incoming calls from customers or is there anyone else as well?
+No, right now it's just me.
+Yeah.
+So we have, we have some steady like contractors and they have the phone numbers for some of my team.
+So they can talk directly for the guys in the field, but generally like what I need this for is the.
+The new clients, the small jobs, the service calls, people that call every day that we don't have a already working relationship with.
+So, but anyways, yeah, it's me that takes those calls.
+Okay, it makes sense.
+And then.
+So when Clara will be set up, the way it'll be set up is your main business line today.
+By default, the forwarding will be set up from there to Clara.
+So.
+You know, we can start off with support.
+I understand from birth is you only have one number and that is your personal number.
+That is your business line.
+I think that is.
+Do you do by any chance happen to have a second number?
+I do.
+I've got a, I was actually thinking about this a while ago.
+So I actually have another phone with the phone line that I'm going to use for personal.
+Yeah, I just have to get it going and tell all my contacts, my new number.
+Perfect.
+Yeah.
+Yeah, I was going to say like, can I turn until I get that done?
+Am I able to turn Clara off and on as needed kind of thing or.
+Yes.
+So the way, then we can, the way we can set it up is, you know, on your phone, how do you use a iOS device?
+Like an Apple device or an Android?
+Android.
+Perfect.
+That makes it even easier because you, you can really set some, you know, the way we can start off is on your phone.
+You can set up the call forwarding in a way where if you do not answer the call or if you decline the call, then we can forward the calls to Clara.
+So in that way, in that way, we can start off like that until you have the second number up and running.
+Once the second number is up, then, you know, we can have Clara be the first point of contact.
+And then if someone wants to talk to you or, you know, then they can, then we can transfer it to the second number.
+Oh, I was actually going to ask that today.
+So Clara can transfer if somebody really needs to talk to me, Clara can transfer that 

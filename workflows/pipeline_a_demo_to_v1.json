@@ -1,0 +1,119 @@
+{
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "trigger_a",
+      "name": "Trigger Pipeline A",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [0, 240]
+    },
+    {
+      "parameters": {
+        "command": "cd /data && node scripts/chunkTranscript.js"
+      },
+      "id": "v1_chunk",
+      "name": "1. Chunk Demo",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [220, 240]
+    },
+    {
+      "parameters": {
+        "command": "cd /data && node scripts/extractChunks.js"
+      },
+      "id": "v1_extract",
+      "name": "2. Extract Demo",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [440, 240]
+    },
+    {
+      "parameters": {
+        "command": "cd /data && node scripts/mergeChunks.js"
+      },
+      "id": "v1_merge",
+      "name": "3. Merge Demo",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [660, 240]
+    },
+    {
+      "parameters": {
+        "command": "cd /data && node scripts/generateMemo.js"
+      },
+      "id": "v1_memo",
+      "name": "4. Generate v1 Memo",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [880, 240]
+    },
+    {
+      "parameters": {
+        "command": "cd /data && node scripts/generateV1AgentSpec.js"
+      },
+      "id": "v1_spec",
+      "name": "5. Generate v1 Spec",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [1100, 240]
+    }
+  ],
+  "connections": {
+    "Trigger Pipeline A": {
+      "main": [
+        [
+          {
+            "node": "1. Chunk Demo",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "1. Chunk Demo": {
+      "main": [
+        [
+          {
+            "node": "2. Extract Demo",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "2. Extract Demo": {
+      "main": [
+        [
+          {
+            "node": "3. Merge Demo",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "3. Merge Demo": {
+      "main": [
+        [
+          {
+            "node": "4. Generate v1 Memo",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "4. Generate v1 Memo": {
+      "main": [
+        [
+          {
+            "node": "5. Generate v1 Spec",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

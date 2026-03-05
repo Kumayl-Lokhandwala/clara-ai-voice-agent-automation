@@ -1,0 +1,23 @@
+Here are the operational information and rules about the contractor's business in bullet points:
+
+**Business Hours & Timezone**
+• Business hours: Monday to Friday, 8:30 AM - 4:30 PM (EST)
+
+**Emergency Definitions & Routing Rules**
+• No specific emergency definitions or routing rules mentioned
+
+**Non-Emergency Routing Rules**
+• No specific non-emergency routing rules mentioned
+
+**Call Transfer Rules & Fallbacks**
+• Calls will be patched through to the agent
+• If the agent is not available, the call will be answered by the system
+
+**Integration Constraints**
+• No specific integration constraints mentioned
+
+**General Notes**
+• The system will be configured to answer calls
+• The agent will be trained on the system and will have access to the dashboard
+• The system will be tested and calibrated before going live
+• The agent will be able to forward calls to the main line and patch through to the agent if requested

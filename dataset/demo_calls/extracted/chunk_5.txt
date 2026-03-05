@@ -1,0 +1,21 @@
+Here are the bullet points under the requested headings:
+
+• **Company Information**
+  • Address: 17119 Sundown Road SE Calgary, Alberta P2X3D4
+
+• **Services Offered**
+  • Electrical services
+  • Outlet installation
+  • Aluminum wiring work
+
+• **Team Structure**
+  • Not specified
+
+• **Software / Tools Used**
+  • AI-powered customer service system
+
+• **Current Workflow**
+  • The system is currently in a demo phase and not trained on the company's business yet.
+
+• **Operational Challenges**
+  • The system has limitations in handling multiple calls at once, with only one person (Ben) available to take calls.

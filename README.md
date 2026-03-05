@@ -94,21 +94,22 @@ n8n will now be available at `http://localhost:5678`.
 ### 4. Execute the Batch Process
 
 Click **"Execute Workflow"** on the n8n canvas.
-The workflows are configured to trigger a single master batch runner script (runBatch.js) via the Execute Command node. This script dynamically iterates through the dataset for all 5 accounts (account_001 through account_005). It handles the end-to-end logic for each account—from initial chunking to final JSON generation—and automatically organizes the results into the structured /outputs directory.
+The workflows are configured to trigger a single master batch runner script (runBatch.js) via the Execute Command node. 
+This script dynamically iterates through the dataset for all 5 accounts (account_001 through account_005). It handles the end-to-end logic for each account—from initial chunking to final JSON generation—and automatically organizes the results into the structured /outputs directory.
 
 ## Challenges Faced & Solutions
 
 Building a fully automated, zero-cost local pipeline presented several engineering hurdles:
 
-- **Local LLM JSON Formatting (Empty Objects):**
+**Local LLM JSON Formatting (Empty Objects):**
 - **Challenge:** Smaller models like Llama 3.2 often panicked when forced into strict JSON format with complex update instructions, returning an empty `{}` object instead of the actual data.
 - **Solution:** Pivoted from complex "merge these two datasets" prompts to a strict "Fill-in-the-blanks" template structure. By explicitly providing the full JSON schema in the prompt and treating the LLM like a data-entry clerk, the model reliably output 100% accurate JSON structures.
 
-- **Context Window Limitations:**
+**Context Window Limitations:**
 - **Challenge:** Feeding a full 30-minute transcript into a local 3B parameter model resulted in severe hallucinations and dropped information.
 - **Solution:** Engineered a robust Map-Reduce script pipeline. Transcripts are chunked, facts are extracted per chunk, and then re-merged before final JSON generation. This guarantees no operational rules are missed.
 
-- **Docker Networking & n8n Node Permissions:**
+**Docker Networking & n8n Node Permissions:**
 - **Challenge:** Running n8n in a Docker container meant it could not natively reach the host machine's Ollama instance (`localhost` pointed to the container itself), nor could it execute local `.js` files due to n8n's strict security policies on the Execute Command node.
 - **Solution:** Configured the `docker-compose.yml` to map the local directory to `/data`, added the `--add-host host.docker.internal:host-gateway` flag to bridge the network to Ollama, and explicitly bypassed the node security block using `-e NODES_EXCLUDE="[]"`.
 

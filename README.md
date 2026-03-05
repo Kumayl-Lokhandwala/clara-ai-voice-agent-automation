@@ -94,7 +94,7 @@ n8n will now be available at `http://localhost:5678`.
 ### 4. Execute the Batch Process
 
 Click **"Execute Workflow"** on the n8n canvas.
-The workflows utilize master batch scripts (`runBatchA.js` and `runBatchB.js`) via the Execute Command node. This will automatically loop through all 5 demo and onboarding calls (`account_001` through `account_005`), cascading the outputs into the `/outputs` folder.
+The workflows are configured to trigger a single master batch runner script (runBatch.js) via the Execute Command node. This script dynamically iterates through the dataset for all 5 accounts (account_001 through account_005). It handles the end-to-end logic for each account—from initial chunking to final JSON generation—and automatically organizes the results into the structured /outputs directory.
 
 ## Challenges Faced & Solutions
 
